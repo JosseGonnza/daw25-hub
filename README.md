@@ -2,7 +2,7 @@
 
 # DAW 2025 — HUB (1º Trimestre)
 
-> Ventana T1: 22/09/2025 → 24/12/2025  
+> Ventana T1: 22/09/2025 → 31/12/2025  
 > Este hub recoge ENLACES y PROGRESO de cada asignatura + el **Proyecto Integrador**.
 
 ---
@@ -24,7 +24,7 @@
 ## 🗺️ Roadmap
 
 ### Programación (Java)
-- [ ] **UD1 — Calculadora básica** → `daw25-prog/UD1-Calculadora`
+- [x] **UD1 — Mini Sistema Bancario** → `daw25-prog/MiniBank`
 
 ### Bases de Datos (MySQL)
 - [ ] **UD1 — Mini BD inicial + comparativa SGBD** → `daw25-bbdd/UD1-Comparativa-SGBD`
@@ -57,10 +57,5 @@
 **Ramas:** `main`  
 **Commits (EN):** `feat: add calculator operations`
 
----
-
-## 🗒️ Learning log (rápido)
-- 2025-09-22: Kickoff T1. Hub creado.
-- 2025-09-23: Empezada UD1 Programación.
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
